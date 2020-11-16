@@ -17,3 +17,4 @@ Or a workspace:
 xcsetting --workspace <workspace> --scheme <scheme> <setting>
 ```
 
+<p align="center"><img src="/sample.gif?raw=true"/></p>
