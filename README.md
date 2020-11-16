@@ -18,3 +18,11 @@ xcsetting --workspace <workspace> --scheme <scheme> <setting>
 ```
 
 <p align="center"><img src="/sample.gif?raw=true"/></p>
+
+## Installation
+
+Use the [Mint](https://github.com/yonaskolb/Mint) package manager to install `xcsetting`:
+
+```
+$ mint install davidahouse/xcsetting
+```
